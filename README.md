@@ -1,62 +1,64 @@
+<!-- Animated Header -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Krishna Gupta</h1>
+<h3 align="center">Computer Science Undergraduate | Web Developer</h3>
 
+---
+
+<!-- Social Links -->
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/krishna-gupta-b93239354/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/krishna041125" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=krishna041125.krishna041125" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+### 👨‍💻 About Me
 
-###
+- 🎓 Third-year Computer Science undergraduate  
+- 🌱 Passionate about Web Development  
+- 💻 Skilled in **HTML, CSS, JavaScript & C Programming**  
+- 🚀 Actively seeking internship opportunities  
+- ⚡ I enjoy building real-world solutions  
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Krishna Gupta from Nepal<br><br>- 📚 I'm currently learning Computer Science Engineering<br>- ⚡ In my free time I generally starting coding using different tools.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠️ Languages & Tools
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img width="12" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img width="12" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=krishna041125&theme=dark&border_radius=5&short_numbers=true&exclude_days=Sun" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna041125&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=krishna041125&theme=tokyonight&cache_seconds=86400" height="160"/>
 </div>
 
-###
+
+---
+
+<div align="center">
+  ⭐️ Keep Learning • Keep Building • Keep Growing 🚀
+</div>
